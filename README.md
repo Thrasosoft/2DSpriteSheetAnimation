@@ -10,6 +10,6 @@ If you Are looking for how to create the attack animation Here are the steps.
   4. Add a new Attack Method in your character controller to set your new trigger/boolean parameter in your animator.
   5. If you choose a boolean parameter, You need to set your isAttacking parameter in your animator to false when the attack key is not being pressed. (Not needed if you used a Trigger.)
   
-  You can use the CharacterAnimator and Character controller in this repo as reference to see if you got the same answer I got. Ultimately if your attack animation works the way you want, you got the right answer. Learning Game Development is about making the game YOU want to make. Not the one I guide you towards.
-Let me know if you have any questions, I'd love to help.
+  You can use the CharacterAnimator and Character controller in this repo as reference to see if you got the same answer I got. Ultimately if your attack animation works the way you want, you got the right answer. Learning Game Development is about making the game YOU want to make. Not the one I guide you towards.  
+Let me know if you have any questions, I'd love to help.  
 -Thrasonic
